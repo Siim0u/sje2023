@@ -14,3 +14,9 @@ h1 {
  font-family: 'Times New Roman', Times, serif;
  align-items: center;
 }
+
+img {
+border: solid chartreuse 3px;
+height: 200px;
+width: 300px;
+}
