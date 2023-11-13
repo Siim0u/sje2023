@@ -17,8 +17,8 @@ h1 {
 
 img {
 border: solid chartreuse 3px;
-height: 200px;
-width: 300px;
+height: 350px;
+width: 500px;
 }
 
 .table {
@@ -28,4 +28,11 @@ width: 300px;
 .table th {
  color: aliceblue;
  font-style: italic;
+}
+
+.row {
+    display: flex;
+}
+.column {
+    flex: 50%;
 }
