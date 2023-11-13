@@ -7,3 +7,10 @@ h1 {
  font-size: x-large;
  color:blueviolet;
 }
+
+.text {
+ color: chartreuse;
+ font-size: medium;
+ font-family: 'Times New Roman', Times, serif;
+ align-items: center;
+}
