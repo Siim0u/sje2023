@@ -20,3 +20,12 @@ border: solid chartreuse 3px;
 height: 200px;
 width: 300px;
 }
+
+.table {
+ color: blueviolet;
+}
+
+.table th {
+ color: aliceblue;
+ font-style: italic;
+}
